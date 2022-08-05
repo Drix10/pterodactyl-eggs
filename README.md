@@ -2,5 +2,5 @@
 This docker image has the following installed:
 Python2,
 Python3.7,
-Node.JS 14,
+Node.JS 18,
 Java 11
